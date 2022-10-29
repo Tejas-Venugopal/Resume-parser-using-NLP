@@ -1,0 +1,166 @@
+=> Filename Abhilash_Resume_New (1).json 
+
+Top Skills :
+  --> Software ( 7 )
+  --> HTML ( 6 )
+  --> CSS ( 5 )
+  --> Angular ( 5 )
+  --> JavaScript ( 5 )
+Other Skills :
+  --> SQL ( 3 )
+  --> MySQL ( 3 )
+  --> Bootstrap ( 3 )
+  --> Application ( 3 )
+  --> Web ( 3 )
+  --> PHP ( 3 )
+  --> Java ( 3 )
+  --> JQuery ( 3 )
+  --> D3.js ( 2 )
+  --> Production ( 2 )
+  --> Chart.js ( 2 )
+  --> Backbone.js ( 1 )
+  --> Front-End ( 1 )
+  --> Presentations ( 1 )
+  --> Communication ( 1 )
+  --> CreateJS ( 1 )
+  --> React ( 1 )
+  --> Giotto ( 1 )
+  --> Skeleton ( 1 )
+  --> Boostrap ( 1 )
+  --> Microsoft ( 1 )
+Hot Skills : JavaScript 
+
+
+=> Filename Amogh (1).json 
+
+Top Skills :
+  --> Presentations ( 3 )
+  --> Accounting ( 3 )
+  --> Production ( 2 )
+  --> FCAPS ( 2 )
+Other Skills :
+  --> Software ( 1 )
+Hot Skills : whatsapp 
+
+
+=> Filename Chythanya.json 
+
+Top Skills :
+  --> FitnessTesting ( 2 )
+Other Skills :
+  --> SQL ( 1 )
+  --> Software ( 1 )
+  --> Communication ( 1 )
+  --> Oracle ( 1 )
+NO Hot Skills Found 
+
+
+=> Filename Experienced 01.json 
+
+Top Skills :
+  --> Software ( 5 )
+  --> Application ( 5 )
+  --> Oracle ( 4 )
+  --> Microsoft ( 3 )
+Other Skills :
+  --> Solving ( 2 )
+  --> SQL ( 2 )
+  --> Monitoring ( 2 )
+  --> IoT ( 2 )
+  --> MySQL ( 2 )
+  --> Unix ( 2 )
+  --> Angular ( 2 )
+  --> Performance ( 2 )
+  --> Communication ( 2 )
+  --> Scheduling ( 2 )
+  --> ETL ( 2 )
+  --> Production ( 2 )
+  --> Troubleshooting ( 2 )
+  --> Firebase ( 2 )
+  --> Python ( 2 )
+  --> Analysis ( 2 )
+  --> Analytical ( 1 )
+  --> PyCharm ( 1 )
+  --> CSS ( 1 )
+  --> Hibernate ( 1 )
+  --> Debugger ( 1 )
+  --> HTML ( 1 )
+  --> Administration ( 1 )
+  --> Extract ( 1 )
+  --> Coordinating ( 1 )
+NO Hot Skills Found 
+
+
+=> Filename Fresher 01.json 
+
+Top Skills :
+  --> Excel ( 2 )
+  --> SQL ( 2 )
+  --> PowerPoint ( 2 )
+  --> Communication ( 2 )
+  --> Microsoft ( 2 )
+  --> Teamwork ( 2 )
+Other Skills :
+  --> Java ( 1 )
+  --> Software ( 1 )
+  --> Motivation ( 1 )
+NO Hot Skills Found 
+
+
+=> Filename Fresher 02.json 
+
+Top Skills :
+  --> Machine ( 4 )
+  --> JavaScript ( 3 )
+Other Skills :
+  --> HTML ( 2 )
+  --> CSS ( 2 )
+  --> Dedicated ( 2 )
+  --> Java ( 1 )
+  --> Software ( 1 )
+NO Hot Skills Found 
+
+
+=> Filename LinkedIn 01.json 
+
+Top Skills :
+  --> ProjectManagement ( 5 )
+  --> Communication ( 4 )
+  --> Analysis ( 4 )
+  --> Software ( 3 )
+  --> Personality ( 3 )
+  --> ANSYS ( 3 )
+Other Skills :
+  --> TeamManagement ( 2 )
+  --> Google ( 2 )
+  --> Design ( 2 )
+  --> Hiring ( 2 )
+  --> Marketing ( 2 )
+  --> HyperMesh ( 2 )
+  --> Meshing ( 2 )
+  --> Performance ( 1 )
+  --> ProjectDirector ( 1 )
+  --> BusinessDevelopmentExecutive ( 1 )
+  --> Procurement ( 1 )
+  --> ExecutiveEngineer ( 1 )
+  --> Motivation ( 1 )
+  --> Recruitment ( 1 )
+NO Hot Skills Found 
+
+
+=> Filename Soumya.json 
+
+Top Skills :
+  --> Blockchain ( 5 )
+  --> JavaScript ( 3 )
+  --> Cryptocurrency ( 3 )
+  --> Organized ( 3 )
+  --> MySQL ( 3 )
+  --> FCAPS ( 3 )
+Other Skills :
+  --> Motivation ( 2 )
+  --> Marketing ( 2 )
+  --> DatabaseManagementSystems ( 1 )
+Hot Skills : ['MySQL', 'JavaScript'] 
+
+
